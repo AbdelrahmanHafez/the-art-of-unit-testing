@@ -1,0 +1,11 @@
+{
+  "name": "the-art-of-unit-testing",
+  "version": "1.0.0",
+  "description": "Following up with The Art Of Unit Testing by Roy Osherove",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Abdelrahman Hafez",
+  "license": "ISC"
+}
